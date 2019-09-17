@@ -79,6 +79,7 @@ void draw()
   }
   
 //colors the stroke and weight and draws both the bubbles
+//additional int in fill function sets % of opaqueness of the color
   strokeWeight(4);
   stroke(200,152,255,90);
   fill(175,255,241,50);
